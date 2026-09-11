@@ -1,0 +1,10 @@
+export const specializationsData = [
+  { name: "Wedding Photography", slug: "wedding", desc: "Capturing vows, candid moments, and rich cultural traditions.", count: 142, img: "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&q=80&w=600" },
+  { name: "Pre-Wedding", slug: "pre-wedding", desc: "Romantic outdoor and stylized couple portraits before the big day.", count: 98, img: "https://images.unsplash.com/photo-1583939003579-730e3918a45a?auto=format&fit=crop&q=80&w=600" },
+  { name: "Commercial Photography", slug: "commercial", desc: "High-impact visual imagery for ad campaigns and corporations.", count: 64, img: "https://images.unsplash.com/photo-1441986300917-64674bd600d8?auto=format&fit=crop&q=80&w=600" },
+  { name: "Product Photography", slug: "product", desc: "Crisp, studio-lit visuals tailored for e-commerce and catalogs.", count: 85, img: "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&q=80&w=600" },
+  { name: "Fashion Photography", slug: "fashion", desc: "High-fashion editorials, runway shoots, and brand lookbooks.", count: 72, img: "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&q=80&w=600" },
+  { name: "Cinematic Wedding Films", slug: "cinematic-films", desc: "4K documentary films telling emotional love stories.", count: 55, img: "https://images.unsplash.com/photo-1485846234645-a62644f84728?auto=format&fit=crop&q=80&w=600" },
+  { name: "Corporate Videography", slug: "corporate-video", desc: "Brand films, executive interviews, and launch teasers.", count: 41, img: "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&q=80&w=600" },
+  { name: "Food Photography", slug: "food", desc: "Appetizing culinary art for restaurant menus and magazines.", count: 39, img: "https://images.unsplash.com/photo-1476224203421-9ac39bcb3327?auto=format&fit=crop&q=80&w=600" }
+];
